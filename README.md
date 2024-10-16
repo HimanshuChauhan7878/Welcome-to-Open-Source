@@ -74,6 +74,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <br />
                     <sub><b>Vivek Thakur</b></sub>
                 </a>
+            </td><td align="center">
+                <a href="https://github.com/HimanshuChauhan7878/">
+                    <img src="https://avatars.githubusercontent.com/u/128671465?v=4" width="100px;" alt="Himanshu Chauhan"/>
+                    <br />
+                    <sub><b>Himanshu Chauhan</b></sub>
+                </a>
             </td>
             <td align="center">
                 <a href="https://github.com/Preetiraj3697">
